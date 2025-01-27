@@ -1,0 +1,151 @@
+.container-fluid {
+    background-color: brown;
+    margin-left: 32px;
+    overflow: hidden;
+    height: 1000PX;
+    padding-left: 30px;
+    width: 1487px;
+    
+}
+/* logo */
+.logo{
+    width: 150px !important;
+    padding-top: 20px;
+    margin-left: 25px;
+}
+/* submit */
+.submit {              
+    margin-top: 200px;
+    margin-left: -80px;
+    font-weight: bold;
+    color: white;
+    font-size: 75px;
+    text-align: center;
+}
+/* detail */
+.detail {
+    margin-left: 136px;
+    /* text-align: center; */
+    color: black;
+
+}
+/* square */
+.square {
+    width: 15px;
+    height: 15px;
+}
+
+.square {
+    margin-left: 800px;
+}
+/* h3 */
+h3 {
+    margin-left: -153px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-style: oblique;
+    font-size: x-large;
+    color: black;
+    text-align: center;
+}
+
+.form-check-label {
+
+    color: white;
+    margin-top: 18px;
+}
+.form-check-input{
+    margin-top: 20px;
+}
+
+.custom-bg {
+    background-color: brown;
+}
+
+.form-control::placeholder {
+    color: white;
+
+}
+
+.form-control {
+
+    color: white;
+    margin-top: 11px;
+
+}
+.col{
+    padding-top: 35px;
+}
+
+.form-group {
+    margin: 2px;
+}
+.coustom-size {
+    width: 500px;
+
+}
+
+.btn {
+    width: 450px;
+    margin-top: 40px;
+    background-color: white;
+    color: black;
+}
+
+.tick {
+    color: azure;
+    font-size: 14px;
+}
+
+.award {
+    font-weight: bold;
+    color: rgb(23, 18, 18);
+}
+
+.squareone  {
+    width: 15px;
+    height: 15px;
+    display: flex;
+    margin-right: 184px !important;
+    margin-top: 8px !important;
+}
+.squaretwo{
+    width: 15px;
+    height: 15px;
+    margin-right:225px !important ;
+    margin-top: -11px !important;
+}
+.row{
+    padding-right: -30px;
+    margin-right: -75PX;
+}
+
+.cut {
+    width: 150px;
+    padding: 100px;
+    clip-path: polygon(100% 57%, 58% 100%, 100% 100%);
+    background-color: white;
+    border: 1px solid white;
+    margin-left: 1317px;
+    margin-top: -224px;
+}
+
+.box {
+    margin-left: 142px;
+}
+
+.box1 {
+    margin-left: 108px;
+}
+
+.box2 {
+    margin-left: 78px;
+}
+
+
+.box3 {
+    margin-left: 77px;
+}
+
+.box4 {
+    margin-left: 97px;
+}
